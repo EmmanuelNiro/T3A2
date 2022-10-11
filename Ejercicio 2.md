@@ -33,6 +33,9 @@ Etapa 2: Definicion de la solucion
 ~~~
 
 
+
 Etapa 3: Diseño de la solucion
-![] (https://github.com/EmmanuelNiro/T3A2/blob/main/Horas.png?raw=true)
+![](https://github.com/EmmanuelNiro/T3A2/blob/main/Horas.png?raw=true)
+
+Etapa 4: Desarrollo de la solucion
 
