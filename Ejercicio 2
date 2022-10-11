@@ -9,18 +9,25 @@ Etapa 2: Definicion de la solucion
 
   1. Entrada de datos
   
-    *Dia inicial
-    *Hora inicial
-    *Dia final
-    *Hora final
+    -diaInicial
+    -horaIicial
+    -diaFinal
+    -horaFinal
   
   2. Proceso
     
-    Pedir el dia y hora inicial
-    Pedir el dia y la fecha final
+ Diferencia de hora del dia posterioir menos el dia anterior 
+  
     
-    Calcular el tiempo transcurrido =  
-    Dias = 24
-    Tiempo = Dias * N
-    
-    
+  3. Mostrar resultados
+ ~~~
+  +--------------------------------------------------------+
+  |         Diferencia de horas entre dos dias             |
+  +--------------------------------------------------------+
+  | Dia inicial: Martes         Dia final: Miercoles       |
+  | Hora Inicial: 2:00          Hora Final: 10             |
+  +--------------------------------------------------------+
+  |Han transcurrido "n" horas del dia Martes al dia        |
+  |miercoles en las horas proporcionadas                   |
+  +--------------------------------------------------------+
+~~~
