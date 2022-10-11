@@ -7,12 +7,12 @@ Se debe comprobar que el usuario introduce los datos correctamente y que el segu
 
 Etapa 2: Definicion de la solucion
 
-  1. Entrada de datos
-  
-    -diaInicial
-    -horaIicial
-    -diaFinal
-    -horaFinal
+  1. Entrada de datos  
+    
+    -diaInicial String
+    -horaIicial Int
+    -diaFinal String
+    -horaFinal Int
   
   2. Proceso
     
@@ -31,3 +31,6 @@ Etapa 2: Definicion de la solucion
   |miercoles en las horas proporcionadas                   |
   +--------------------------------------------------------+
 ~~~
+
+
+Etapa 3: Diseño de la solucion
